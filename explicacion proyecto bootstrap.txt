@@ -1,0 +1,59 @@
+pagina de compra de consolas retro
+
+es una pagina de una tienda de consolas, desde la pagina se ven los productos para comprar
+y puedes mirar donde hay tiendas en fisico en un mapa
+
+
+1-inicio
+	(brebe explicacion de la pagina)
+
+link de la vista en pc:
+https://wireframe.cc/Qi8UO2
+
+link de la vista en tablet:
+https://wireframe.cc/tf2ART
+
+link de la vista en movil:
+https://wireframe.cc/LfUQBD
+
+2-compra videojuegos y consolas
+	(aqui se veran todos las consolas disponibles
+	imagenes de las consolas con el titulo, si pulsas en la imagen te envia a una pagina con informacion de la consola)
+
+link de la vista en pc:
+https://wireframe.cc/pro/pp/9400e75bb416407
+
+link de la vista en tablet:
+https://wireframe.cc/cUhV27
+
+link de la vista en movil:
+https://wireframe.cc/lw4hV5
+	
+
+3-mapa con tiendas disponibles
+	(aqui se muestran las tiendas fisicas disponibles
+	en un mapa de google)
+
+link de la vista en pc:
+https://wireframe.cc/zijAl2
+
+link de la vista en tablet:
+https://wireframe.cc/OxGElU
+
+link de la vista en movil:
+https://wireframe.cc/mPXKT3
+
+4-formulario
+	(formulario para registrarse como comprador)
+
+link de la vista en pc:
+https://wireframe.cc/EmqV9D
+
+link de la vista en tablet:
+https://wireframe.cc/1kGI1l
+
+link de la vista en movil:
+https://wireframe.cc/uuevcl
+
+
+vistas: movil, tablet, pc
