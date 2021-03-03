@@ -97,6 +97,9 @@ h1 {
     visibility: visible;
 }
 @media(max-width:2467px){
+    .tituloCarousel{
+        visibility: hidden;
+    }
     .carousel{
         visibility: hidden;
     }
@@ -120,4 +123,3 @@ h1 {
     }
     
 }
-  
