@@ -120,8 +120,4 @@ h1 {
     }
     
 }
-@media (max-width:517px){
-    .primerIcono {
-        visibility: hidden;
-    }
-}
+  
